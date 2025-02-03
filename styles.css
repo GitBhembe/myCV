@@ -30,7 +30,10 @@ body {
     padding: 10px 15px;
     margin: 0 5px;
 }
-
+ #weather{
+    color: red;
+ }
+ 
 .nav-link:hover {
     background-color: #555;
     border-radius: 5px;
